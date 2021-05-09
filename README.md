@@ -1,6 +1,7 @@
 # Moderning
  forTheFix
 Please change:
+Add images
 CSS files: design.css and gamePage.css
 HTML File: LogintoUser.html: main page for user who signed in
            index.html: main page for user who not sign in yet
