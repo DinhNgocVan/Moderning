@@ -1,0 +1,49 @@
+.Form {
+    margin: 70px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+} 
+body{
+    background-image: url("../static/images/dinosaur-skeleton2.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: fantasy;
+} 
+.row{
+    background: #f1f1f1;
+    opacity: 90%;
+    border-radius: 40px;
+    box-shadow: 12px 12px 22px gray;
+    
+}
+img{
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: #f1f1f1;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.btn1:hover{
+    background: #f1f1f1;
+    border: 1px solid;
+    color: black;
+}
+
+.bg-img {
+    background-image: url("dinosaur-skeleton2.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  /* position: relative;
+*/
+}
